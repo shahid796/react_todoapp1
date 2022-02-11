@@ -1,0 +1,16 @@
+.strike{
+    text-decoration: line-through rgb(165, 23, 23);
+    background-color: black;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    font-size: 30px;
+}
+.no_strike{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    font-size: 30px;
+}
